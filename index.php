@@ -51,10 +51,6 @@
 		<h3>Project 4 - Final</h3>
 		View: [link]<br>Github: [link]
 
-
-		
-		
-		
 		
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
 		<p>At the end of the day I am just a country boy who loves living on the horse farm with my beautiful bride of 24 years.  We currently have 18 horses which my wife uses to take people on guided trail rides through the state forest which butts up to our property in the panhandle of Florida.  Our two sons are both currently majoring in computer science at the University of West Florida.  I am part of a small group of software engineers who maintain software applications and databases that are used for obsolescence management by the military, other government entities, and businesses in the civilian sector.  Additionally, I have been wearing a U.S. Marine Corps uniform on and off since 1982 which has taken me to more countries than I can easily count on five continent (many times flying the helicopter pictured above).  I have seen many wonderful things and many horrific things, but the one thing I know for sure I have learned is though the United States is far from perfect, it is by far the best game in town.</p>
