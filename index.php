@@ -2,25 +2,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+    <link rel="stylesheet" href="style/style.css" type="text/css">
 	<title>Steve Motsco - P1 - CSCI E-15 Portfolio</title>
 	<meta charset="utf-8">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' type='text/css'>
-	<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
-	
 	<style>
 	
-		h1 {
-			text-align:center;
-		}
-	
 		.container {
-			width:50%;
+			width:70%;
 			min-width:600px;
 			margin-bottom:50px;
+			margin-left:50px;
+			text-align: center;
 		}	
 		
 		img {
@@ -38,18 +33,20 @@
 
 	<div class="container">
 	
-		<h1>Steve Motsco <br>CSCI E-15: Dynamic Web Applications Portfolio</h1>
+		<h1><center>Steve Motsco <br>CSCI E-15: Dynamic Web Applications Portfolio</h1>
 		
 		<img src='images/USMC-Huey-Anbar,Iraq-2008.jpg' alt='Steve Motsco'>
 		
+		
+
 		<h3>Project 2 - PHP Basics</h3>
-		View: [FutureLink]<br>Github: [FutureLink]
+		<p>View: [FutureLink]<br>Github: [FutureLink]</p>
 		
 		<h3>Project 3 - Laravel Basics</h3>
-		View: [FutureLink]<br>Github: [FutureLink]
+		<p>View: [FutureLink]<br>Github: [FutureLink]</p>
 		
 		<h3>Project 4 - Final</h3>
-		View: [FutureLink]<br>Github: [FutureLink]
+		<p>View: [FutureLink]<br>Github: [FutureLink]</p>
 
 		
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
@@ -68,8 +65,6 @@
 		<p>Someday when they make the stone, all it will have on it is:<br>NAME<br>START DATE-END DATE<br>“Husband, Father, Patriot”</p>
 	
 	</div>
-	
-	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 	
 </body>
 </html>
