@@ -8,8 +8,8 @@
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	# <link rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' type='text/css'>
-	# # <link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
+	<link rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' type='text/css'>
+	<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
 	
 	<style>
 	
@@ -43,13 +43,13 @@
 		<img src='images/USMC-Huey-Anbar,Iraq-2008.jpg' alt='Steve Motsco'>
 		
 		<h3>Project 2 - PHP Basics</h3>
-		View: [link]<br>Github: [link]
+		View: [FutureLink]<br>Github: [FutureLink]
 		
 		<h3>Project 3 - Laravel Basics</h3>
-		View: [link]<br>Github: [link]
+		View: [FutureLink]<br>Github: [FutureLink]
 		
 		<h3>Project 4 - Final</h3>
-		View: [link]<br>Github: [link]
+		View: [FutureLink]<br>Github: [FutureLink]
 
 		
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
@@ -69,7 +69,7 @@
 	
 	</div>
 	
-	# <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 	
 </body>
 </html>
