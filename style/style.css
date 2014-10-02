@@ -10,6 +10,18 @@ body
   background: #F0EFE2 url(background.png) repeat;
   color: #000;}
 
+div
+{  width:70%;
+   min-width:600px;
+   margin-bottom:50px;
+   margin-left:50px;
+   text-align: left;
+} 
+
+label
+{ text-decoration:none;
+  color: #FFF; }
+
 img
 { border: 0;}
 
@@ -21,14 +33,14 @@ p, h1, h2, h3, h4, h5, h6
 p, h3
 { text-align: left;}
 
-h5, h6
-{ font: italic 95% arial, sans-serif;
+h4, h5, h6
+{ font-family: arial, sans-serif;
   padding: 0 0 15px 0;}
 
 a, a:hover
 { outline: none;
   text-decoration: underline;
-  color: #000;}
+  color: #9CF;} <!--#000--> 
 
 a:hover
 { text-decoration: none;}

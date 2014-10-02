@@ -9,24 +9,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<style>
-	
 		.container {
-			width:70%;
+			width:90%;
 			min-width:600px;
 			margin-bottom:50px;
 			margin-left:50px;
 			text-align: center;
 		}	
-		
 		img {
 			display:block;
 			margin:auto;
 			width:50%;
 		}
-	
 	</style>
-
-	
 </head>
 <body>
 
@@ -35,20 +30,20 @@
 	
 		<h1>Steve Motsco <br/>CSCI E-15: Dynamic Web Applications Portfolio</h1>
 		
-		<img src='images/USMC-Huey-Anbar,Iraq-2008.jpg' alt='Steve Motsco'>
+		<img src='images/USMC-Huey-Anbar,Iraq-2008.jpg' alt='Steve Motsco'><br/>
 		
-		
-
 		<h2>Project 2 - PHP Basics</h2>
-		<h6>View: [FutureLink]<br/>Github: [FutureLink]</h6>
+		<p>The task associated with Project 2 was to create a password generator based on a comic, <a href="http://xkcd.com/936/" target="_blank">"Password Strength"</a>, that appeared on the webcomic site <a href="http://xkcd.com" target="_blank">xkcd</a>.</p>
+		<p>xkcd popularized the idea that a set of random words makes for a much more secure password than a string of random letters (upper/lower case), numbers, and symbols.  The <a href="http://p2.stevemotsco.me/index.php" target="_blank">xkcd type password generator</a> which I created also has options that allow the user to do more than just create a password with a set number of words with spaces between.  Click on the below link "Goto Web Page" to try it out.</p>
+		<h4><a href="http://p2.stevemotsco.me/index.php" target="_blank">Goto Web Page</a>
+			<br/><a href="https://github.com/stevemotsco/p2" target="_blank">GitHub: Project 2</a></h4>
 		
 		<h2>Project 3 - Laravel Basics</h2>
-		<h6>View: [FutureLink]<br/>Github: [FutureLink]</h6>
+		<h4>Goto Web Page: [FutureLink]<br/>GitHub: [FutureLink]</h4>
 		
 		<h2>Project 4 - Final</h2>
-		<h6>View: [FutureLink]<br/>Github: [FutureLink]</h6>
+		<h4>Goto Web Page: [FutureLink]<br/>GitHub: [FutureLink]</h4><br/>
 
-		
 		<h3>In 2+ sentences describe who you are and what you do.</h3>
 		<p>At the end of the day I am just a country boy who loves living on the horse farm with my beautiful bride of 24 years.  We currently have 18 horses which my wife uses to take people on guided trail rides through the state forest which butts up to our property in the panhandle of Florida.  Our two sons are both currently majoring in computer science at the University of West Florida.  I am part of a small group of software engineers who maintain software applications and databases that are used for obsolescence management by the military, other government entities, and businesses in the civilian sector.  Additionally, I have been wearing a U.S. Marine Corps uniform on and off since 1982 which has taken me to more countries than I can easily count on five continent (many times flying the helicopter pictured above).  I have seen many wonderful things and many horrific things, but the one thing I know for sure I have learned is though the United States is far from perfect, it is by far the best game in town.</p>
 		
