@@ -39,7 +39,9 @@
 			<br/><a href="https://github.com/stevemotsco/p2" target="_blank">GitHub: Project 2</a></h4>
 		
 		<h2>Project 3 - Laravel Basics</h2>
-		<h4>Goto Web Page: [FutureLink]<br/>GitHub: [FutureLink]</h4>
+		<p>The task associated with Project 3 was to create an application called <a href="http://p3.stevemotsco.me/index.php" target="_blank">"Developer's Best Friend"</a> which includes a Lorem Ipsum Generator and a Random User Generator.  Click on the below link "Goto Web Page" to try it out.</p>
+		<h4><a href="http://p3.stevemotsco.me/index.php" target="_blank">Goto Web Page</a>
+			<br/><a href="https://github.com/stevemotsco/p3" target="_blank">GitHub: Project 3</a></h4>
 		
 		<h2>Project 4 - Final</h2>
 		<h4>Goto Web Page: [FutureLink]<br/>GitHub: [FutureLink]</h4><br/>
